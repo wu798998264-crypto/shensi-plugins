@@ -1,6 +1,6 @@
 {
   "format": "shensi-public-extension-catalog-v1",
-  "publishedAt": "2026-11-10T10:30:16.809Z",
+  "publishedAt": "2026-11-10T10:31:01.178Z",
   "items": [
     {
       "pluginId": "thirdparty.novel-publisher",
@@ -541,7 +541,8 @@
       "repository": "wu798998264-crypto/shensi-plugin-novel-publisher",
       "sha256": "3299ab33ebe127af4ca657f04d506df97e9b576fac76e139de5df4f7679b1212",
       "sizeBytes": 241506,
-      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.novel-publisher-v0.1.17/thirdparty.novel-publisher-0.1.17.plugin.json"
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.novel-publisher-v0.1.17/thirdparty.novel-publisher-0.1.17.plugin.json",
+      "mirrorUrl": "https://raw.githubusercontent.com/wu798998264-crypto/shensi-plugins/fa0b3c82ba72da8fa51d5346de253ec7a1cee924/packages/thirdparty.novel-publisher-0.1.17.plugin.json"
     },
     {
       "pluginId": "thirdparty.glyph-workshop",
@@ -552,7 +553,8 @@
       "repository": "wu798998264-crypto/shensi-plugin-glyph-workshop",
       "sha256": "cc85cbb4bf0fab3c58da76d38dfc64a6edfadd9f847219f57d1f0bfc0dfb42ff",
       "sizeBytes": 117706,
-      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.glyph-workshop-v0.1.17/thirdparty.glyph-workshop-0.1.17.plugin.json"
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.glyph-workshop-v0.1.17/thirdparty.glyph-workshop-0.1.17.plugin.json",
+      "mirrorUrl": "https://raw.githubusercontent.com/wu798998264-crypto/shensi-plugins/fa0b3c82ba72da8fa51d5346de253ec7a1cee924/packages/thirdparty.glyph-workshop-0.1.17.plugin.json"
     },
     {
       "pluginId": "thirdparty.credential-vault",
@@ -563,7 +565,8 @@
       "repository": "wu798998264-crypto/shensi-plugin-credential-vault",
       "sha256": "e738eb6b4c21e59a8560204df9f15d24f81aa772e46379e315d6cc6ea0265d03",
       "sizeBytes": 31508,
-      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.credential-vault-v0.1.17/thirdparty.credential-vault-0.1.17.plugin.json"
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.credential-vault-v0.1.17/thirdparty.credential-vault-0.1.17.plugin.json",
+      "mirrorUrl": "https://raw.githubusercontent.com/wu798998264-crypto/shensi-plugins/fa0b3c82ba72da8fa51d5346de253ec7a1cee924/packages/thirdparty.credential-vault-0.1.17.plugin.json"
     },
     {
       "pluginId": "thirdparty.text-reader",
@@ -574,7 +577,8 @@
       "repository": "wu798998264-crypto/shensi-plugin-text-reader",
       "sha256": "1a41520e4c76f62dac1481ef08977287a63a8779267cbfc19a51b9d6a3460dc1",
       "sizeBytes": 142419,
-      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.text-reader-v0.1.17/thirdparty.text-reader-0.1.17.plugin.json"
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.text-reader-v0.1.17/thirdparty.text-reader-0.1.17.plugin.json",
+      "mirrorUrl": "https://raw.githubusercontent.com/wu798998264-crypto/shensi-plugins/fa0b3c82ba72da8fa51d5346de253ec7a1cee924/packages/thirdparty.text-reader-0.1.17.plugin.json"
     },
     {
       "pluginId": "thirdparty.map-workshop",
@@ -585,7 +589,8 @@
       "repository": "wu798998264-crypto/shensi-plugin-map-workshop",
       "sha256": "c1dadfae86bc1fa8d57de7b3454e47d110d6acbfbb21ac85f2d0569d9ce03940",
       "sizeBytes": 185692,
-      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.map-workshop-v0.1.17/thirdparty.map-workshop-0.1.17.plugin.json"
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.map-workshop-v0.1.17/thirdparty.map-workshop-0.1.17.plugin.json",
+      "mirrorUrl": "https://raw.githubusercontent.com/wu798998264-crypto/shensi-plugins/fa0b3c82ba72da8fa51d5346de253ec7a1cee924/packages/thirdparty.map-workshop-0.1.17.plugin.json"
     },
     {
       "pluginId": "thirdparty.doubao",
@@ -596,7 +601,8 @@
       "repository": "wu798998264-crypto/shensi-plugin-doubao",
       "sha256": "15effd50d184f12d46aa6981016aa760baa11698cf22750ced0dbb41edb5390b",
       "sizeBytes": 343526,
-      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.doubao-v0.1.17/thirdparty.doubao-0.1.17.plugin.json"
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.doubao-v0.1.17/thirdparty.doubao-0.1.17.plugin.json",
+      "mirrorUrl": "https://raw.githubusercontent.com/wu798998264-crypto/shensi-plugins/fa0b3c82ba72da8fa51d5346de253ec7a1cee924/packages/thirdparty.doubao-0.1.17.plugin.json"
     },
     {
       "pluginId": "thirdparty.character-chat",
@@ -607,7 +613,8 @@
       "repository": "wu798998264-crypto/shensi-plugin-character-chat",
       "sha256": "a9503654e8895b7266682f7b35b171adc8dac90795d1972f5018aec003f67e1b",
       "sizeBytes": 57211,
-      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.character-chat-v0.1.17/thirdparty.character-chat-0.1.17.plugin.json"
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.character-chat-v0.1.17/thirdparty.character-chat-0.1.17.plugin.json",
+      "mirrorUrl": "https://raw.githubusercontent.com/wu798998264-crypto/shensi-plugins/fa0b3c82ba72da8fa51d5346de253ec7a1cee924/packages/thirdparty.character-chat-0.1.17.plugin.json"
     },
     {
       "pluginId": "thirdparty.local-h3",
@@ -618,7 +625,8 @@
       "repository": "wu798998264-crypto/shensi-plugin-local-h3",
       "sha256": "7224ec34bccddcca82dc2d351ac7d09144635564408a4522f7cd52c8ed693693",
       "sizeBytes": 59288,
-      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.local-h3-v0.1.17/thirdparty.local-h3-0.1.17.plugin.json"
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.local-h3-v0.1.17/thirdparty.local-h3-0.1.17.plugin.json",
+      "mirrorUrl": "https://raw.githubusercontent.com/wu798998264-crypto/shensi-plugins/fa0b3c82ba72da8fa51d5346de253ec7a1cee924/packages/thirdparty.local-h3-0.1.17.plugin.json"
     },
     {
       "pluginId": "thirdparty.depth-explorer",
@@ -629,7 +637,8 @@
       "repository": "wu798998264-crypto/shensi-plugin-depth-explorer",
       "sha256": "65e640a35cd6a214bc190908b2293e143d528149bd82ff9d0adac7b3f6b0895e",
       "sizeBytes": 24909,
-      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.depth-explorer-v0.1.17/thirdparty.depth-explorer-0.1.17.plugin.json"
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.depth-explorer-v0.1.17/thirdparty.depth-explorer-0.1.17.plugin.json",
+      "mirrorUrl": "https://raw.githubusercontent.com/wu798998264-crypto/shensi-plugins/fa0b3c82ba72da8fa51d5346de253ec7a1cee924/packages/thirdparty.depth-explorer-0.1.17.plugin.json"
     },
     {
       "pluginId": "official.nutstore",
@@ -640,7 +649,8 @@
       "repository": "wu798998264-crypto/shensi-plugin-nutstore",
       "sha256": "b1a2453b3b13ceea7dca74aa162148a9d0a1c611e6d8af31e678261cfb613d5b",
       "sizeBytes": 216131,
-      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-official.nutstore-v0.1.17/official.nutstore-0.1.17.plugin.json"
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-official.nutstore-v0.1.17/official.nutstore-0.1.17.plugin.json",
+      "mirrorUrl": "https://raw.githubusercontent.com/wu798998264-crypto/shensi-plugins/fa0b3c82ba72da8fa51d5346de253ec7a1cee924/packages/official.nutstore-0.1.17.plugin.json"
     },
     {
       "pluginId": "thirdparty.calendar",
@@ -657,12 +667,13 @@
         "storage",
         "ui"
       ],
-      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.calendar-v1.0.5/thirdparty.calendar-1.0.5.plugin.json"
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.calendar-v1.0.5/thirdparty.calendar-1.0.5.plugin.json",
+      "mirrorUrl": "https://raw.githubusercontent.com/wu798998264-crypto/shensi-plugins/fa0b3c82ba72da8fa51d5346de253ec7a1cee924/packages/thirdparty.calendar-1.0.5.plugin.json"
     }
   ],
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "release-2026",
-    "value": "fu3Pfc8ysGJjVGCCp23dFghAOs0hEMXOWYiTdflegU-5o7L__9llJqZ9wVREmWGSA6_VK-TwDBASiF-dxATwCg"
+    "value": "tifQYexG7qDbY03MJhFH5wRrNiQ4uod1atmDfpAty0pZ9P8pQqrWvYRRDTPJTpvy_Hhwb-MeR1kY-K2HLS-HCA"
   }
 }

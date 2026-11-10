@@ -1,6 +1,6 @@
 {
   "format": "shensi-public-extension-catalog-v1",
-  "publishedAt": "2026-11-09T15:27:45.537Z",
+  "publishedAt": "2026-11-10T02:19:26.891Z",
   "items": [
     {
       "pluginId": "thirdparty.novel-publisher",
@@ -334,17 +334,6 @@
       "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.map-workshop-v0.1.8/thirdparty.map-workshop-0.1.8.plugin.json"
     },
     {
-      "pluginId": "thirdparty.doubao",
-      "name": "豆包多开",
-      "version": "0.1.8",
-      "hostVersion": "0.0.25",
-      "packageFormat": "shensi-native-extension-v1",
-      "repository": "wu798998264-crypto/shensi-plugin-doubao",
-      "sha256": "eeb1723bffc3464dd24fde3b2b034b089ce4516fc60bf2ab506f084a940ff447",
-      "sizeBytes": 334281,
-      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.doubao-v0.1.8/thirdparty.doubao-0.1.8.plugin.json"
-    },
-    {
       "pluginId": "thirdparty.character-chat",
       "name": "人物会客室",
       "version": "0.1.8",
@@ -404,11 +393,22 @@
         "ui"
       ],
       "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.calendar-v1.0.5/thirdparty.calendar-1.0.5.plugin.json"
+    },
+    {
+      "pluginId": "thirdparty.doubao",
+      "name": "豆包多开",
+      "version": "0.1.15",
+      "hostVersion": "0.0.25",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-doubao",
+      "sha256": "bd9767bd73b4cdcb59ea8204d3a84015015ed15aed4d0b8db04b1fe230db65dd",
+      "sizeBytes": 340376,
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.doubao-v0.1.15/thirdparty.doubao-0.1.15.plugin.json"
     }
   ],
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "release-2026",
-    "value": "JlMwReZD1SwLsvYPTwYGTAmAcE15m2ARKAFg7f433QfrFpEFXmaQVm0KJgHnFoE6GJg00yh_btlVaSLqceRfDA"
+    "value": "rXz6vEaqRk2uAAhwg0nRSUXnwgj1WUEd94t2mXwhFoxGn-sbZxSFkIfEuKbslIni-8t2qVp29A9nl66lZHHWAw"
   }
 }

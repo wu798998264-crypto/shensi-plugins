@@ -1,6 +1,6 @@
 {
   "format": "shensi-public-extension-catalog-v1",
-  "publishedAt": "2026-11-11T18:32:49.214Z",
+  "publishedAt": "2026-11-11T18:34:48.114Z",
   "items": [
     {
       "pluginId": "thirdparty.novel-publisher",
@@ -928,6 +928,6 @@
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "release-2026",
-    "value": "Skq4LMsUIe8ahAPQlJbjfaDzDKD-uvQQjXtuKacHO-JSbWuuIzluuVVO6vLR04Da6d_acK-nJDg7GtE0cDihCg"
+    "value": "Qvwrqika1FcUEHpwmwwHYL0kxJs2AmC7jBbrs7DNodTv6MsIpcIuMXWeJoxYBzm_JalI8OkkP408G5QzszYcCg"
   }
 }

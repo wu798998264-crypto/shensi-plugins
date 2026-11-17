@@ -1,6 +1,6 @@
 {
   "format": "shensi-public-extension-catalog-v1",
-  "publishedAt": "2026-11-16T16:40:39.621Z",
+  "publishedAt": "2026-11-17T04:21:59.912Z",
   "items": [
     {
       "pluginId": "thirdparty.browser",
@@ -588,17 +588,6 @@
       "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.map-workshop-v0.1.33/thirdparty.map-workshop-0.1.33.plugin.json"
     },
     {
-      "pluginId": "thirdparty.doubao",
-      "name": "豆包多开",
-      "version": "0.1.33",
-      "hostVersion": "0.0.41",
-      "packageFormat": "shensi-native-extension-v1",
-      "repository": "wu798998264-crypto/shensi-plugin-doubao",
-      "sha256": "4ff9e70140f7c9cbe83af7acababcce8963b97a0b28422d4aac4b3be550fce12",
-      "sizeBytes": 360986,
-      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.doubao-v0.1.33/thirdparty.doubao-0.1.33.plugin.json"
-    },
-    {
       "pluginId": "thirdparty.character-chat",
       "name": "人物会客室",
       "version": "0.1.33",
@@ -658,11 +647,22 @@
         "ui"
       ],
       "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.calendar-v1.0.5/thirdparty.calendar-1.0.5.plugin.json"
+    },
+    {
+      "pluginId": "thirdparty.doubao",
+      "name": "豆包多开",
+      "version": "0.1.34",
+      "hostVersion": "0.0.41",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-doubao",
+      "sha256": "d1018a38d240f168a8c81890998e30d5bee7c4dce05609eb24ed99ed4dd48b05",
+      "sizeBytes": 365586,
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.doubao-v0.1.34/thirdparty.doubao-0.1.34.plugin.json"
     }
   ],
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "release-2026",
-    "value": "j9eOsbWK2uzDM9uWCdhiEAuyVeYukhWCt7uCYVmzECS7pkTxJXY2He8WWzdSIcOz3fIlOFaPQJjw1ukOKwPdDg"
+    "value": "9kkofSIUo6dtBuXfRAZZrv9e3R2dPmtByVJUA_sOuTrQ5qbxJwWCW6Bq46Cjge1TE_sS4_AhDqPmLnBSQ7cjCg"
   }
 }

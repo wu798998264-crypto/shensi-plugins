@@ -1,6 +1,6 @@
 {
   "format": "shensi-public-extension-catalog-v1",
-  "publishedAt": "2026-11-17T11:16:16.799Z",
+  "publishedAt": "2026-11-17T17:45:53.933Z",
   "items": [
     {
       "pluginId": "thirdparty.browser",
@@ -299,11 +299,160 @@
         "storage",
         "ui"
       ]
+    },
+    {
+      "pluginId": "thirdparty.browser",
+      "name": "浏览器",
+      "description": "浏览器 macOS 独立扩展",
+      "version": "0.1.40",
+      "hostVersion": "0.0.44",
+      "platform": "darwin",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-browser",
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.browser-v0.1.40/thirdparty.browser-0.1.40.plugin.json",
+      "sizeBytes": 150382,
+      "sha256": "a7f6e733e6abfdd36460ef9d2db7a15d4f8f285d85754e4f785bc2ce6edc9dd4"
+    },
+    {
+      "pluginId": "thirdparty.novel-publisher",
+      "name": "小说发布",
+      "description": "小说发布 macOS 独立扩展",
+      "version": "0.1.40",
+      "hostVersion": "0.0.44",
+      "platform": "darwin",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-novel-publisher",
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.novel-publisher-v0.1.40/thirdparty.novel-publisher-0.1.40.plugin.json",
+      "sizeBytes": 241526,
+      "sha256": "0e2fb73ea6c4424a5ee7613eecb90642c7ea55af1f36b0cb5f85c653b685069b"
+    },
+    {
+      "pluginId": "thirdparty.glyph-workshop",
+      "name": "文字工坊",
+      "description": "文字工坊 macOS 独立扩展",
+      "version": "0.1.40",
+      "hostVersion": "0.0.44",
+      "platform": "darwin",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-glyph-workshop",
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.glyph-workshop-v0.1.40/thirdparty.glyph-workshop-0.1.40.plugin.json",
+      "sizeBytes": 117726,
+      "sha256": "8417056cfde77ddaea5449193c1d927072dd5e8e85ab9060f8f4edc7c9d36486"
+    },
+    {
+      "pluginId": "thirdparty.text-reader",
+      "name": "文档朗读",
+      "description": "文档朗读 macOS 独立扩展",
+      "version": "0.1.40",
+      "hostVersion": "0.0.44",
+      "platform": "darwin",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-text-reader",
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.text-reader-v0.1.40/thirdparty.text-reader-0.1.40.plugin.json",
+      "sizeBytes": 142067,
+      "sha256": "1be443860ec1052132b6b96fc505bd201bb2c73856ed12c038b6a2af28639db9"
+    },
+    {
+      "pluginId": "thirdparty.map-workshop",
+      "name": "地图工坊",
+      "description": "地图工坊 macOS 独立扩展",
+      "version": "0.1.40",
+      "hostVersion": "0.0.44",
+      "platform": "darwin",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-map-workshop",
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.map-workshop-v0.1.40/thirdparty.map-workshop-0.1.40.plugin.json",
+      "sizeBytes": 185712,
+      "sha256": "fa2c58a3ae20eefb4b6241af49b2bd26eca6f03409aa42e0ac2bae963a7fd723"
+    },
+    {
+      "pluginId": "thirdparty.doubao",
+      "name": "豆包多开",
+      "description": "豆包多开 macOS 独立扩展",
+      "version": "0.1.40",
+      "hostVersion": "0.0.44",
+      "platform": "darwin",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-doubao",
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.doubao-v0.1.40/thirdparty.doubao-0.1.40.plugin.json",
+      "sizeBytes": 365606,
+      "sha256": "5b5edc3948ea12e344881292e7041aca52eac888e7c60d05355ed97a5f2ad86d"
+    },
+    {
+      "pluginId": "thirdparty.character-chat",
+      "name": "人物会客室",
+      "description": "人物会客室 macOS 独立扩展",
+      "version": "0.1.40",
+      "hostVersion": "0.0.44",
+      "platform": "darwin",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-character-chat",
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.character-chat-v0.1.40/thirdparty.character-chat-0.1.40.plugin.json",
+      "sizeBytes": 57231,
+      "sha256": "66f5106c1c5799018c139851523588ece7405cca7c34274fb64f35058afa1a95"
+    },
+    {
+      "pluginId": "thirdparty.local-h3",
+      "name": "本地 H3",
+      "description": "本地 H3 macOS 独立扩展",
+      "version": "0.1.40",
+      "hostVersion": "0.0.44",
+      "platform": "darwin",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-local-h3",
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.local-h3-v0.1.40/thirdparty.local-h3-0.1.40.plugin.json",
+      "sizeBytes": 59308,
+      "sha256": "48e50a060df02cfb11498ed91c716cdfe8fb51a199b489c88b94e581eccbbe6b"
+    },
+    {
+      "pluginId": "thirdparty.depth-explorer",
+      "name": "深度摸索",
+      "description": "深度摸索 macOS 独立扩展",
+      "version": "0.1.40",
+      "hostVersion": "0.0.44",
+      "platform": "darwin",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-depth-explorer",
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.depth-explorer-v0.1.40/thirdparty.depth-explorer-0.1.40.plugin.json",
+      "sizeBytes": 24929,
+      "sha256": "d913a78e417ec3b9add05f92aa025cca781e12d2e16212fe231c2e8c56caf5ec"
+    },
+    {
+      "pluginId": "official.nutstore",
+      "name": "坚果云同步",
+      "description": "坚果云同步 macOS 独立扩展",
+      "version": "0.1.40",
+      "hostVersion": "0.0.44",
+      "platform": "darwin",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-nutstore",
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-official.nutstore-v0.1.40/official.nutstore-0.1.40.plugin.json",
+      "sizeBytes": 216218,
+      "sha256": "483e433065e35058a35614f99ef7346e1c9978bcb46d91356b6c76295d84d2b2"
+    },
+    {
+      "pluginId": "thirdparty.calendar",
+      "name": "日历与待办",
+      "description": "月历、待办提醒与跨笔记本日期文档关联；支持受控对话命令，提醒限软件运行期间。",
+      "version": "1.0.5",
+      "hostVersion": "0.0.44",
+      "platform": "darwin",
+      "packageFormat": "shensi-script-plugin-v1",
+      "repository": "wu798998264-crypto/shensi-plugins",
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.calendar-v1.0.5/thirdparty.calendar-1.0.5.plugin.json",
+      "sizeBytes": 25384,
+      "sha256": "f90fe5924aba5ac51561d98c501cb1c71b1a831e3f588398b151b07af2de73f0",
+      "permissions": [
+        "documents.read",
+        "documents.write",
+        "storage",
+        "ui"
+      ]
     }
   ],
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "release-2026",
-    "value": "3zjsMDabLLzAoYiRmDZEqKzJAUqdWByg9ZIGuEesty1x5C88g6Kt_G6zZwNyHH8FRkzcaRSoiCMxUCK87PTnCQ"
+    "value": "qszFqfypSeyc1D9wT4rSPT4Wd7-pURu_Vexe2ypEn021S848uaeJ3DbIJVR4uw6ktWeI3hqtklexHzh15S_LAQ"
   }
 }

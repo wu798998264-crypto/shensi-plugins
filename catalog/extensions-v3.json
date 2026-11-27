@@ -1,6 +1,6 @@
 {
   "format": "shensi-public-extension-catalog-v1",
-  "publishedAt": "2026-11-26T14:22:43.293Z",
+  "publishedAt": "2026-11-27T01:14:18.220Z",
   "items": [
     {
       "pluginId": "thirdparty.browser",
@@ -1145,11 +1145,138 @@
         "ui"
       ],
       "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.calendar-v1.0.5/thirdparty.calendar-1.0.5.plugin.json"
+    },
+    {
+      "pluginId": "thirdparty.browser",
+      "name": "浏览器",
+      "version": "0.1.69",
+      "hostVersion": "0.0.56",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-browser",
+      "sha256": "108ab632f1b8ec095339f98ef5f2726681f52360ec4141b1d3362e5f08ba4c7e",
+      "sizeBytes": 150362,
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.browser-v0.1.69/thirdparty.browser-0.1.69.plugin.json"
+    },
+    {
+      "pluginId": "thirdparty.novel-publisher",
+      "name": "小说发布",
+      "version": "0.1.69",
+      "hostVersion": "0.0.56",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-novel-publisher",
+      "sha256": "910df09870304b43223b5e800e8ca0cb86ef4c6835394025efc4a1a03c8cb1cd",
+      "sizeBytes": 241506,
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.novel-publisher-v0.1.69/thirdparty.novel-publisher-0.1.69.plugin.json"
+    },
+    {
+      "pluginId": "thirdparty.glyph-workshop",
+      "name": "文字工坊",
+      "version": "0.1.69",
+      "hostVersion": "0.0.56",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-glyph-workshop",
+      "sha256": "00f7592226fc0b2ba0ef3d228cdf84e60b5731486220ad5e5578800a6a45af54",
+      "sizeBytes": 117706,
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.glyph-workshop-v0.1.69/thirdparty.glyph-workshop-0.1.69.plugin.json"
+    },
+    {
+      "pluginId": "thirdparty.text-reader",
+      "name": "文档朗读",
+      "version": "0.1.69",
+      "hostVersion": "0.0.56",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-text-reader",
+      "sha256": "3109ae2a9534c70d5bcc5569b316e06d34e19afe85cf39fe010dd4dd0dfb500c",
+      "sizeBytes": 143704,
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.text-reader-v0.1.69/thirdparty.text-reader-0.1.69.plugin.json"
+    },
+    {
+      "pluginId": "thirdparty.map-workshop",
+      "name": "地图工坊",
+      "version": "0.1.69",
+      "hostVersion": "0.0.56",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-map-workshop",
+      "sha256": "c22e2d526cc167c167b8dc59e651e8227990bde91830754cd602fca37e3e4328",
+      "sizeBytes": 185692,
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.map-workshop-v0.1.69/thirdparty.map-workshop-0.1.69.plugin.json"
+    },
+    {
+      "pluginId": "thirdparty.doubao",
+      "name": "豆包多开",
+      "version": "0.1.69",
+      "hostVersion": "0.0.56",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-doubao",
+      "sha256": "6dc8f54b3143f73d25432120da5e6ae01bba5e9e8c5631830a5204f48bebab29",
+      "sizeBytes": 367222,
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.doubao-v0.1.69/thirdparty.doubao-0.1.69.plugin.json"
+    },
+    {
+      "pluginId": "thirdparty.character-chat",
+      "name": "人物会客室",
+      "version": "0.1.69",
+      "hostVersion": "0.0.56",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-character-chat",
+      "sha256": "e40a2951142dded0aa9201cb0241854348d2e1544a3acafd33992f0a976c3ef1",
+      "sizeBytes": 57211,
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.character-chat-v0.1.69/thirdparty.character-chat-0.1.69.plugin.json"
+    },
+    {
+      "pluginId": "thirdparty.local-h3",
+      "name": "本地 H3",
+      "version": "0.1.69",
+      "hostVersion": "0.0.56",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-local-h3",
+      "sha256": "24eaf57bc325196ddaf34605f5c3b13c387e3faf7298356240278612c974aa53",
+      "sizeBytes": 59288,
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.local-h3-v0.1.69/thirdparty.local-h3-0.1.69.plugin.json"
+    },
+    {
+      "pluginId": "thirdparty.depth-explorer",
+      "name": "深度摸索",
+      "version": "0.1.69",
+      "hostVersion": "0.0.56",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-depth-explorer",
+      "sha256": "bd002f838f5f7734e0f09d17cf885c7730146518ca5be3d888094777427af848",
+      "sizeBytes": 24909,
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.depth-explorer-v0.1.69/thirdparty.depth-explorer-0.1.69.plugin.json"
+    },
+    {
+      "pluginId": "official.nutstore",
+      "name": "坚果云同步",
+      "version": "0.1.69",
+      "hostVersion": "0.0.56",
+      "packageFormat": "shensi-native-extension-v1",
+      "repository": "wu798998264-crypto/shensi-plugin-nutstore",
+      "sha256": "af20c0fa96ee8e31bd9bd51e1e3b1562730563ad0c088bdb48a9c17392a00a14",
+      "sizeBytes": 216198,
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-official.nutstore-v0.1.69/official.nutstore-0.1.69.plugin.json"
+    },
+    {
+      "pluginId": "thirdparty.calendar",
+      "name": "日历与待办",
+      "version": "1.0.5",
+      "hostVersion": "0.0.56",
+      "packageFormat": "shensi-script-plugin-v1",
+      "repository": "wu798998264-crypto/shensi-plugins",
+      "sha256": "f90fe5924aba5ac51561d98c501cb1c71b1a831e3f588398b151b07af2de73f0",
+      "sizeBytes": 25384,
+      "permissions": [
+        "documents.read",
+        "documents.write",
+        "storage",
+        "ui"
+      ],
+      "downloadUrl": "https://github.com/wu798998264-crypto/shensi-plugins/releases/download/plugin-thirdparty.calendar-v1.0.5/thirdparty.calendar-1.0.5.plugin.json"
     }
   ],
   "signature": {
     "algorithm": "Ed25519",
-    "keyId": "release-2026-11",
-    "value": "8T8smgXMJzzgmrt_8mYg8pp8TAUBaWcOA-d0HwDpJ3yx8y71ZEd0Hr5Eap2k278GwPKvhCBcQ1FjIftLPqRdDg"
+    "keyId": "release-2026",
+    "value": "jbKbkvs14CGPj09KPXQ0PHUFea8CvqpXBCVnds4i4t4_eRNeLvYUhQZ6SMmr-Dt5iFBTaFRAfXAcsCx0nLuwBg"
   }
 }
